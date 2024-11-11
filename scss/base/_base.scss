@@ -4,12 +4,6 @@
     box-sizing: border-box;
 }
 
-:root {
-    --text-color: #1a162e;
-    --icon-color: brightness(0) saturate(100%) invert(9%) sepia(33%)
-        saturate(998%) hue-rotate(210deg) brightness(95%) contrast(98%);
-}
-
 html {
     font-size: 62.5%;
 }
@@ -18,6 +12,7 @@ body {
     font-family: "Gordita", sans-serif;
     font-size: 1.6rem;
     color: var(--text-color);
+    background-color: var(--body-bg-color);
 }
 
 a {
