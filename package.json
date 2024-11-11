@@ -1,0 +1,14 @@
+{
+    "name": "project-8",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/blueWhale1202/grocerymart.git",
+    "scripts": {
+        "dev": "sass scss:assets/css -w"
+    },
+    "author": "bluewhale <lqtu12369@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "sass": "^1.80.6"
+    }
+}
